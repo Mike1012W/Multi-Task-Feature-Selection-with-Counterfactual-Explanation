@@ -26,5 +26,4 @@ Mothilal, Ramaravind K., Amit Sharma, and Chenhao Tan. "Explaining machine learn
 
 Ding, Weiping, et al. "Evolutionary multistage multitasking method for feature selection in imbalanced data." Swarm and Evolutionary Computation 92 (2025): 101821.
 
-### Note
-Since the paper has not been accepted yet, only part of the test code is uploaded, and it will be updated after acceptance.
+
